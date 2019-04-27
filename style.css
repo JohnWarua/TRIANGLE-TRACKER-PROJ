@@ -1,6 +1,6 @@
 .test-box {
   background-color:skyblue;
-  background-image: url("https://i.pinimg.com/564x/d8/af/ae/d8afae71869f2fcd5961400c7ec73dcc.jpg");
+  background-image: url("https://i.pinimg.com/564x/b5/3d/af/b53daf2ac80928aaf1439eb67fd2df33.jpg");
 
 }
 .header{
@@ -11,6 +11,10 @@ color:purple;
   font-style: italic;
   }
 .DefReset {
+  color: purple;
+  font-style: italic;
+}
+.input  {
   color: purple;
   font-style: italic;
 }
