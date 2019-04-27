@@ -1,5 +1,10 @@
 .test-box {
   background-color:skyblue;
   background-image: url("https://i.pinimg.com/564x/d8/af/ae/d8afae71869f2fcd5961400c7ec73dcc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 
+}
+.header{
+color:purple;
 }
