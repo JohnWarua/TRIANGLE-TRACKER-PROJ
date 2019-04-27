@@ -1,20 +1,34 @@
 .test-box {
   background-color:skyblue;
-  background-image: url("https://i.pinimg.com/564x/b5/3d/af/b53daf2ac80928aaf1439eb67fd2df33.jpg");
-
+  background-image: url("https://i.pinimg.com/564x/bf/02/6a/bf026a39fed163f24cb3d00a1b361598.jpg");
 }
 .header{
 color:purple;
 }
 .answer {
-  color: purple;
+  color: green;
   font-style: italic;
   }
 .DefReset {
-  color: purple;
+  color: Red;
   font-style: italic;
 }
 .input  {
-  color: purple;
+  color: skyblue;
   font-style: italic;
+}
+.input1 {
+  color: pink;
+  font-style: italic;
+}
+.input2 {
+  color: pink;
+  font-style: italic;
+}
+.input3 {
+  color: pink
+
+}
+.instract {
+  color: skyblue
 }
