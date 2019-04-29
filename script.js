@@ -1,7 +1,7 @@
 var answer = function () {
-  var Side1 =parseInt(document.Number.Side1.value);
-  var Side2 =parseInt(document.Number.Side2.value);
-  var Side3 =parseInt(document.Number.Side3.value);
+  var Side1 =parseInt(document.getElementById("Side1").value);
+  var Side2 =parseInt(document.getElementById("Side2").value);
+  var Side3 =parseInt(document.getElementById("Side3").value);
 
    var output = document.getElementById('output');
 
@@ -15,4 +15,4 @@ var answer = function () {
     }else{
       alert("This is a Scalene Triangle");
     }
-    }
+}
