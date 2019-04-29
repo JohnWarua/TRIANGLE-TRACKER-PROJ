@@ -1,4 +1,4 @@
-var ANSWER = function () {
+var answer = function () {
   var Side1 =parseInt(document.Number.Side1.value);
   var Side2 =parseInt(document.Number.Side2.value);
   var Side3 =parseInt(document.Number.Side3.value);
